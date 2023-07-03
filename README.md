@@ -29,5 +29,5 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RafaelRoriz&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RafaelRoriz&theme=transparent&hide_border=true&card_width=1000)](https://git.io/streak-stats)
 
