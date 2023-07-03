@@ -31,3 +31,5 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RafaelRoriz&theme=transparent&hide_border=true&card_width=1000)](https://git.io/streak-stats)
 
+ ![Snake animation](https://github.com/RafaelRoriz/RafaelRoriz/blob/output/github-contribution-grid-snake.svg)
+
