@@ -1,4 +1,4 @@
-### E ai 👋
+![alt text](http://url/to/header.png)
 
 <p>🐍 Aprendendo Python </p>
 <P> ⚡ Games </P>
