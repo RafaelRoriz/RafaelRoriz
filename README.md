@@ -5,9 +5,7 @@
 
 ![alt text](https://github.com/RafaelRoriz/RafaelRoriz/blob/main/header.png?raw=true)
 
-<p>🐍 Aprendendo Python </p>
-<P> ⚡ Games </P>
-<P>📫 Contate-me no email: Rafaelcroriz7@gmail.com </P>
+</br>
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -25,6 +23,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
+</br>
+</br>
 
 
 ### :fire: My Stats :
