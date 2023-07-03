@@ -30,7 +30,7 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RafaelRoriz&theme=transparent&hide_border=true&card_width=1000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRoriz&theme=transparent&hide&border=true&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRoriz&theme=transparent&hide_border=true&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
 
 <div> 
 <a href="https://www.linkedin.com/in/rafael-caldas-76174b207" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
